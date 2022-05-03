@@ -176,97 +176,9 @@ namespace Elden_Ring_Tool {
             for (int i = 1; i < dgvBossList.Columns.Count; i++) {
                 dgvBossList.Columns[i].ReadOnly = true;
             }
+
+            paintCells();
             
-
-           for (int j = 5; j < 13; j++) {
-                for (int i = 0; i < dgvBossList.RowCount; i++) {
-                    switch (Convert.ToInt32(dgvBossList.Rows[i].Cells[j].Value)) {
-                        case -3:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Lime;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Lime;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
-                            break;
-                        case -2:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.LightGreen;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.LightGreen;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
-                            break;
-                        case -1:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.MediumAquamarine;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.MediumAquamarine;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
-                            break;
-                        case 0:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.LightGray;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.LightGray;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
-                            break;
-                        case 1:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.DarkSalmon;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.DarkSalmon;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
-                            break;
-                        case 2:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.OrangeRed;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.OrangeRed;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
-                            break;
-                        case 3:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Red;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Red;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
-                            break;
-                    }
-                }
-                dgvBossList.Columns[j].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
-                
-            }
-
-            for (int j = 13; j < 18; j++) {
-                for (int i = 0; i < dgvBossList.RowCount; i++) {
-                    switch (Convert.ToInt32(dgvBossList.Rows[i].Cells[j].Value)) {
-                        case 0:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.White;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.White;
-                            break;
-                        case 1:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Green;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Green;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
-                            break;
-                        case 2:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Yellow;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Yellow;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
-                            break;
-                        case 3:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Red;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Red;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
-                            break;
-                        case 4:
-                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Violet;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Violet;
-                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
-                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
-                            break;
-                    }
-                }
-                dgvBossList.Columns[j].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
-
-            }
 
             // Weapon Upgrades Init
             dsWpn = new DataSet("WeaponUpgrades");
@@ -572,6 +484,102 @@ namespace Elden_Ring_Tool {
                 dgvFlask.Rows[i].Cells[0].Value = false;
             }
             this.Cursor = Cursors.Default;
+        }
+
+        private void paintCells() {
+            for (int j = 5; j < 13; j++) {
+                for (int i = 0; i < dgvBossList.RowCount; i++) {
+                    switch (Convert.ToInt32(dgvBossList.Rows[i].Cells[j].Value)) {
+                        case -3:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Lime;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Lime;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
+                            break;
+                        case -2:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.LightGreen;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.LightGreen;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
+                            break;
+                        case -1:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.MediumAquamarine;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.MediumAquamarine;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
+                            break;
+                        case 0:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.LightGray;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.LightGray;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
+                            break;
+                        case 1:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.DarkSalmon;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.DarkSalmon;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
+                            break;
+                        case 2:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.OrangeRed;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.OrangeRed;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
+                            break;
+                        case 3:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Red;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Red;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
+                            break;
+                    }
+                }
+                dgvBossList.Columns[j].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+
+            }
+
+            for (int j = 13; j < 18; j++) {
+                for (int i = 0; i < dgvBossList.RowCount; i++) {
+                    switch (Convert.ToInt32(dgvBossList.Rows[i].Cells[j].Value)) {
+                        case 0:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.White;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.White;
+                            break;
+                        case 1:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Green;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Green;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
+                            break;
+                        case 2:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Yellow;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Yellow;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
+                            break;
+                        case 3:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Red;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Red;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
+                            break;
+                        case 4:
+                            dgvBossList.Rows[i].Cells[j].Style.BackColor = Color.Violet;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionBackColor = Color.Violet;
+                            dgvBossList.Rows[i].Cells[j].Style.ForeColor = Color.Black;
+                            dgvBossList.Rows[i].Cells[j].Style.SelectionForeColor = Color.Black;
+                            break;
+                    }
+                }
+                dgvBossList.Columns[j].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+
+            }
+        }
+
+        private void dgvBossList_Sorted(object sender, EventArgs e) {
+            paintCells();
         }
     }
 }

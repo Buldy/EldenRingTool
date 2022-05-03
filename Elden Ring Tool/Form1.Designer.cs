@@ -134,7 +134,8 @@ namespace Elden_Ring_Tool {
             this.dgvBossList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvBossList.Size = new System.Drawing.Size(755, 989);
             this.dgvBossList.TabIndex = 0;
-            this.dgvBossList.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBossList_CellClick);
+            this.dgvBossList.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBossList_CellClick);
+            this.dgvBossList.Sorted += new System.EventHandler(this.dgvBossList_Sorted);
             // 
             // tabPage2
             // 
@@ -162,7 +163,7 @@ namespace Elden_Ring_Tool {
             this.dgvWpn.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvWpn.Size = new System.Drawing.Size(755, 989);
             this.dgvWpn.TabIndex = 0;
-            this.dgvWpn.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvWpn_CellClick);
+            this.dgvWpn.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvWpn_CellClick);
             // 
             // tabPage3
             // 
@@ -189,7 +190,7 @@ namespace Elden_Ring_Tool {
             this.dgvFlask.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvFlask.Size = new System.Drawing.Size(755, 989);
             this.dgvFlask.TabIndex = 1;
-            this.dgvFlask.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvFlask_CellClick);
+            this.dgvFlask.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvFlask_CellClick);
             // 
             // btnSave
             // 
