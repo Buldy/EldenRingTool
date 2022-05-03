@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<weapon-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Collected>false</Collected>
+		<Name>Ghost-Glovewort Picker's Bell Bearing (1)</Name>
+		<Location>Nokron</Location>
+		<Type>Pickup (Corpse)</Type>
+		<Y>-184.969</Y>
+		<X>123.366</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ghost-Glovewort Picker's Bell Bearing (2)</Name>
+		<Location>Nokstella</Location>
+		<Type>Pickup (Chest)</Type>
+		<Y>-124.956</Y>
+		<X>66.397</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ghost-Glovewort Picker's Bell Bearing (3)</Name>
+		<Location>Elphael, Brace of the Haligtree</Location>
+		<Type>Pickup (Grave)</Type>
+		<Y>-34.725</Y>
+		<X>149.198</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Glovewort Picker's Bell Bearing (1)</Name>
+		<Location>Wyndham Catacombs</Location>
+		<Type>Boss drop</Type>
+		<Y>-91.658</Y>
+		<X>73.05</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Glovewort Picker's Bell Bearing (2)</Name>
+		<Location>Giant's Mountaintop Catacombs</Location>
+		<Type>Boss drop</Type>
+		<Y>-86.1</Y>
+		<X>150.3</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Glovewort Picker's Bell Bearing (3)</Name>
+		<Location>Farum Azula</Location>
+		<Type>Pickup</Type>
+		<Y>-132.609</Y>
+		<X>214.801</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Smithing-Stone Miner's Bell Bearing (1)</Name>
+		<Location>Raya Lucaria Crystal Tunnel</Location>
+		<Type>Boss drop</Type>
+		<Y>-124.754</Y>
+		<X>66.266</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Smithing-Stone Miner's Bell Bearing (2)</Name>
+		<Location>Sealed Tunnel</Location>
+		<Type>Pickup (Chest)</Type>
+		<Y>-106.273</Y>
+		<X>106.573</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Smithing-Stone Miner's Bell Bearing (3)</Name>
+		<Location>Zamor Ruins</Location>
+		<Type>Pickup (Chest)</Type>
+		<Y>-89.781</Y>
+		<X>146.906</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Smithing-Stone Miner's Bell Bearing (4)</Name>
+		<Location>Dragon Temple</Location>
+		<Type>Boss drop</Type>
+		<Y>-122.594</Y>
+		<X>216.362</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somberstone Miner's Bell Bearing (1)</Name>
+		<Location>Sellia Crystal Tunnel</Location>
+		<Type>Boss drop</Type>
+		<Y>-171.078</Y>
+		<X>145.607</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somberstone Miner's Bell Bearing (2)</Name>
+		<Location>Altus Tunnel</Location>
+		<Type>Boss drop</Type>
+		<Y>-93.28</Y>
+		<X>91.6</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somberstone Miner's Bell Bearing (3)</Name>
+		<Location>First Church of Marika</Location>
+		<Type>Pickup</Type>
+		<Y>-73.2</Y>
+		<X>174.55</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somberstone Miner's Bell Bearing (4)</Name>
+		<Location>Farum Azula</Location>
+		<Type>Pickup (Corpse)</Type>
+		<Y>-127.25</Y>
+		<X>214</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somberstone Miner's Bell Bearing (5)</Name>
+		<Location>Farum Azula</Location>
+		<Type>Pickup</Type>
+		<Y>-123.703</Y>
+		<X>219.207</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Godrick's Throneroom</Location>
+		<Type>Quest (Nepheli Loux)</Type>
+		<Y>-172.437</Y>
+		<X>84.867</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Godrick's Throneroom</Location>
+		<Type>Gatekeeper Gostoc</Type>
+		<Y>-172.437</Y>
+		<X>84.867</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Sorceress Sellen Questline</Location>
+		<Type>Witchhunter Jerren</Type>
+		<Y>-133.989</Y>
+		<X>55.704</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Dragonbarrow</Location>
+		<Type>Gurranq (9 Deathroots)</Type>
+		<Y>-149.664</Y>
+		<X>154.825</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Mountaintops</Location>
+		<Type>Pickup (Corpse)</Type>
+		<Y>-91.09</Y>
+		<X>158.8</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Consecrated Snowfield</Location>
+		<Type>Boss drop</Type>
+		<Y>-76.39</Y>
+		<X>139</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Yelough Anix Tunnel</Location>
+		<Type>Pickup</Type>
+		<Y>-78.969</Y>
+		<X>132.828</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Consecrated Snowfield</Location>
+		<Type>Pickup (Corpse)</Type>
+		<Y>-69.476</Y>
+		<X>151.563</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Farum Azula</Location>
+		<Type>Enemy drop</Type>
+		<Y>-129.727</Y>
+		<X>216.572</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Farum Azula</Location>
+		<Type>Pickup (Corpse)</Type>
+		<Y>-121.781</Y>
+		<X>215.385</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Farum Azula</Location>
+		<Type>Enemy drop</Type>
+		<Y>-123.477</Y>
+		<X>219.87</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Haligtree</Location>
+		<Type>Pickup (Corpse)</Type>
+		<Y>-42.906</Y>
+		<X>147.305</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Ancient Dragon Smithing Stone</Name>
+		<Location>Elphael, Brace of the Haligtree</Location>
+		<Type>Pickup (Chest)</Type>
+		<Y>-36.421</Y>
+		<X>148.632</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somber Ancient Dragon Smithing Stone</Name>
+		<Location>Apostate Derelict</Location>
+		<Type>Quest (Latenna)</Type>
+		<Y>-58.32</Y>
+		<X>133.1</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somber Ancient Dragon Smithing Stone</Name>
+		<Location>Mohgwyn Palace</Location>
+		<Type>Pickup (Chest)</Type>
+		<Y>-183.297</Y>
+		<X>149.055</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somber Ancient Dragon Smithing Stone</Name>
+		<Location>Elphael, Brace of the Haligtree</Location>
+		<Type>Pickup (Chest)</Type>
+		<Y>-36.266</Y>
+		<X>148.499</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somber Ancient Dragon Smithing Stone</Name>
+		<Location>Elphael, Brace of the Haligtree</Location>
+		<Type>Pickup (Corpse)</Type>
+		<Y>-39.823</Y>
+		<X>149.87</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somber Ancient Dragon Smithing Stone</Name>
+		<Location>Elphael, Brace of the Haligtree</Location>
+		<Type>Quest (Millicent)</Type>
+		<Y>-37.606</Y>
+		<X>148.711</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somber Ancient Dragon Smithing Stone</Name>
+		<Location>Leyndell, Ashen Capital</Location>
+		<Type>Pickup (Corpse)</Type>
+		<Y>-103.914</Y>
+		<X>114.004</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somber Ancient Dragon Smithing Stone</Name>
+		<Location>Farum Azula</Location>
+		<Type>Pickup</Type>
+		<Y>-123.477</Y>
+		<X>220.337</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Somber Ancient Dragon Smithing Stone</Name>
+		<Location>Consecrated Snowfield</Location>
+		<Type>Enemy drop</Type>
+		<Y>-69.203</Y>
+		<X>137.478</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Great Grave Glovewort (2x)</Name>
+		<Location>Consecrated Snowfield</Location>
+		<Type>Boss drop</Type>
+		<Y>-79.16</Y>
+		<X>149.34</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Great Grave Glovewort</Name>
+		<Location>Giant-Conquering Hero's Grave</Location>
+		<Type>Pickup</Type>
+		<Y>-84.867</Y>
+		<X>149.398</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Great Grave Glovewort</Name>
+		<Location>Farum Azula</Location>
+		<Type>Pickup</Type>
+		<Y>-127.711</Y>
+		<X>213.923</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Great Grave Glovewort</Name>
+		<Location>Farum Azula</Location>
+		<Type>Pickup</Type>
+		<Y>-125.5</Y>
+		<X>212.594</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Great Grave Glovewort</Name>
+		<Location>Elphael, Brace of the Haligtree</Location>
+		<Type>Pickup</Type>
+		<Y>-39.534</Y>
+		<X>147.278</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Great Ghost Glovewort</Name>
+		<Location>Ainsel River</Location>
+		<Type>Pickup</Type>
+		<Y>-123.586</Y>
+		<X>63.293</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Great Ghost Glovewort</Name>
+		<Location>Night's Sacred Grounds</Location>
+		<Type>Pickup</Type>
+		<Y>-181.109</Y>
+		<X>129.19</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Great Ghost Glovewort</Name>
+		<Location>Nokstella</Location>
+		<Type>Pickup</Type>
+		<Y>-121.084</Y>
+		<X>65.861</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Great Ghost Glovewort</Name>
+		<Location>Mohgwyn Dynasty Mausoleum</Location>
+		<Type>Pickup</Type>
+		<Y>-182.602</Y>
+		<X>146.675</X>
+	</record>
+</weapon-data>

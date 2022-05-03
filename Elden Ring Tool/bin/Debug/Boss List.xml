@@ -1,0 +1,3541 @@
+<?xml version="1.0" standalone="yes"?>
+<boss-data>
+  <record>
+    <Name>Abductor Virgins (Duo)</Name>
+    <Location>Mt. Gelmir</Location>
+    <SpecificLocation>Volcano Manor</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>1</Thrust>
+    <Magic>0</Magic>
+    <Fire>1</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>1</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-92.234</Y>
+    <X>68.415</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Adan, Thief of Fire</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Malefactor's Evergaol</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>1</Poison>
+    <ScarletRot>1</ScarletRot>
+    <Bleed>1</Bleed>
+    <Frost>1</Frost>
+    <Sleep>0</Sleep>
+    <Y>-164.281</Y>
+    <X>75.208</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Alabaster Lord</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Royal Grave Evergaol</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>0</Frost>
+    <Sleep>2</Sleep>
+    <Y>-106.475</Y>
+    <X>65.307</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Alecto, Black Knife Ringleader</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Ringleader's Evergaol</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-153.769</Y>
+    <X>43.724</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Ancestor Spirit</Name>
+    <Location>Siofra River</Location>
+    <SpecificLocation>Hallowhorn Grounds</SpecificLocation>
+    <Special>Fire Obelisks</Special>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>-1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>-1</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-188.947</Y>
+    <X>135.946</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Ancient Dragon Lansseax</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Rampartside Path</SpecificLocation>
+    <Special>South of the Grace</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>3</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-96.7</Y>
+    <X>95.723</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Ancient Hero of Zamor</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Sainted Hero's Grave</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>-1</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>2</Sleep>
+    <Y>-94.394</Y>
+    <X>90.042</X>
+  </record>
+  <record>
+    <Name>Ancient Hero of Zamor</Name>
+    <Location>Mountaintops</Location>
+    <SpecificLocation>Giant-Conquering Hero's Grave</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>-1</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>2</Sleep>
+    <Y>-85.506</Y>
+    <X>147.8</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Ancient Hero of Zamor</Name>
+    <Location>Weeping Peninsula</Location>
+    <SpecificLocation>Weeping Evergaol</SpecificLocation>
+    <Special>1 Stonesword Key</Special>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>-1</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>2</Sleep>
+    <Y>-211.219</Y>
+    <X>98.18</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Astel, Naturalborn of the Void</Name>
+    <Location>Lake of Rot</Location>
+    <SpecificLocation>Grand Cloister</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-165.672</Y>
+    <X>47.647</X>
+  </record>
+  <record>
+    <Name>Astel, Stars of Darkness</Name>
+    <Location>Consecrated Snowfield</Location>
+    <SpecificLocation>Yelough Anix Tunnel</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-77.93</Y>
+    <X>132.19</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Battlemage Hugues</Name>
+    <Location>Dragonbarrow</Location>
+    <SpecificLocation>Sellia Evergaol</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>2</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-181</Y>
+    <X>139</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Beast Clergyman / Maliketh, the Black Blade</Name>
+    <Location>Farum Azula</Location>
+    <SpecificLocation>Crumbling Farum Azula</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>3</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-125.086</Y>
+    <X>221.028</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Beastman of Farum Azula</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Groveside Cave</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>-1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>2</Sleep>
+    <Y>-188.375</Y>
+    <X>98.379</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Beastman of Farum Azula (Duo)</Name>
+    <Location>Dragonbarrow</Location>
+    <SpecificLocation>Dragonbarrow Cave</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>-1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>2</Sleep>
+    <Y>-165.42</Y>
+    <X>157.018</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Bell Bearing Hunter</Name>
+    <Location>Capital Outskirts</Location>
+    <SpecificLocation>Hermit Merchant's Shack</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>3</Sleep>
+    <Y>-89.07</Y>
+    <X>107.313</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Bell Bearing Hunter</Name>
+    <Location>Dragonbarrow</Location>
+    <SpecificLocation>Isolated Merchant</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>3</Sleep>
+    <Y>-164.594</Y>
+    <X>136.674</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Bell Bearing Hunter</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Warmaster's Shack</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>3</Sleep>
+    <Y>-179.384</Y>
+    <X>102.02</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Bell Bearing Hunter</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Church of Vows</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>3</Sleep>
+    <Y>-130.794</Y>
+    <X>68.497</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Black Blade Kindred</Name>
+    <Location>Forbidden Lands</Location>
+    <SpecificLocation>Grand Lift of Rold entrance</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>0</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>3</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-95</Y>
+    <X>142</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Black Blade Kindred </Name>
+    <Location>Dragonbarrow</Location>
+    <SpecificLocation>Bestial Sanctum entrance</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>0</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>3</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-151.62</Y>
+    <X>156.549</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Black Knife Assassin</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Sage's Cave</SpecificLocation>
+    <Special>Invisible</Special>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-96.57</Y>
+    <X>71.6</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Black Knife Assassin</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Sainted Hero's Grave</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-94.63</Y>
+    <X>90.59</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Black Knife Assassin</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Deathtouched Catacombs</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-174.766</Y>
+    <X>106.054</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Black Knife Assassin</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Black Knife Catacombs</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-116.93</Y>
+    <X>81.58</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Bloodhound Knight</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Lakeside Crystal Cave</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>2</Sleep>
+    <Y>-162.75</Y>
+    <X>65.52</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Bloodhound Knight Darriwil</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Forlorn Hound Evergaol</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>2</Sleep>
+    <Y>-202.797</Y>
+    <X>113,,191</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Bols, Carian Knight</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Cuckoo's Evergaol</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>3</Frost>
+    <Sleep>1</Sleep>
+    <Y>-138.57</Y>
+    <X>43.831</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Borealis the Freezing Fog</Name>
+    <Location>Mountaintops</Location>
+    <SpecificLocation>Frozen lake</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>3</Slash>
+    <Strike>2</Strike>
+    <Thrust>3</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-65.769</Y>
+    <X>171.117</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Cemetery Shade</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Caelid Catacombs</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>-1</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-191</Y>
+    <X>140</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Cemetery Shade</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Black Knife Catacombs</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>-1</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-116.313</Y>
+    <X>82.416</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Cemetery Shade</Name>
+    <Location>Weeping Peninsula</Location>
+    <SpecificLocation>Tombsward Catacombs</SpecificLocation>
+    <Special>1 Stonesword Key</Special>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>-1</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-209.53</Y>
+    <X>104.06</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Cleanrot Knight</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Stillwater Cave</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>-1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>2</Sleep>
+    <Y>-169.219</Y>
+    <X>82.995</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Cleanrot Knight (Duo)</Name>
+    <Location>Dragonbarrow</Location>
+    <SpecificLocation>Abandoned Cave</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>-1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>2</Sleep>
+    <Y>-175.164</Y>
+    <X>141.895</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Commander Niall</Name>
+    <Location>Mountaintops</Location>
+    <SpecificLocation>Castle Sol</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>3</Sleep>
+    <Y>-58.93</Y>
+    <X>158.271</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Commander O'Neil</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Aeonia Swamp</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>3</Sleep>
+    <Y>-181.297</Y>
+    <X>143.756</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Crucible Knight</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Stormhill Evergaol</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>4</Frost>
+    <Sleep>4</Sleep>
+    <Y>-186.64</Y>
+    <X>98.6</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Crucible Knight &amp; Crucible Knight Ordovis</Name>
+    <Location>Capital Outskirts</Location>
+    <SpecificLocation>Auriza Hero's Grave</SpecificLocation>
+    <Special>1 Stonesword Key</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>4</Frost>
+    <Sleep>4</Sleep>
+    <Y>-97.14</Y>
+    <X>119.477</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Crucible Knight &amp; Misbegotten Warrior</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Redmane Castle</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>4</Frost>
+    <Sleep>4</Sleep>
+    <Y>-192</Y>
+    <X>159</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Crucible Knight Siluria</Name>
+    <Location>Deeproot Depths</Location>
+    <SpecificLocation>Deeproot Depths Erdtree</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>4</Frost>
+    <Sleep>4</Sleep>
+    <Y>-95.375</Y>
+    <X>107.102</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Crystalian</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Raya Lucaria Crystal Cave</SpecificLocation>
+    <Special>1 Stonesword Key</Special>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-124.37</Y>
+    <X>66.649</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Crystalian Spear &amp; Crystalian Ringblade</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Altus Tunnel</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-91.938</Y>
+    <X>93.427</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Crystalian Spear &amp; Crystalian Staff</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Academy Crytal Cave</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-136.336</Y>
+    <X>52.388</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Death Rite Bird</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>East of Southern Aeonia Swamp</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-187.56</Y>
+    <X>147.04</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Death Rite Bird</Name>
+    <Location>Consecrated Snowfield</Location>
+    <SpecificLocation>Southeast of the Apostate Derelict</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-60</Y>
+    <X>136</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Death Rite Bird</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>South of Gate Town North</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-137.359</Y>
+    <X>62.312</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Death Rite Bird</Name>
+    <Location>Mountaintops</Location>
+    <SpecificLocation>Northwest of Stargazer's Ruins</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-64.369</Y>
+    <X>151.907</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Deathbird</Name>
+    <Location>Capital Outskirts</Location>
+    <SpecificLocation>East of the Hermit Merchant's Shack</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-88.344</Y>
+    <X>108.361</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Deathbird</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>East of Warmaster’s Shack</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-180.33</Y>
+    <X>104.19</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Deathbird</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Northeast of the Scenic Isle</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-153.82</Y>
+    <X>68.76</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Deathbird</Name>
+    <Location>Weeping Peninsula</Location>
+    <SpecificLocation>North of Castle Morne</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-218.891</Y>
+    <X>110.973</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Decaying Ekzykes</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Caelid Highway</SpecificLocation>
+    <Standard>-2</Standard>
+    <Slash>-2</Slash>
+    <Strike>-2</Strike>
+    <Thrust>-1</Thrust>
+    <Magic>-2</Magic>
+    <Fire>-3</Fire>
+    <Lightning>-2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>0</Sleep>
+    <Y>-188.48</Y>
+    <X>140.089</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Demi-Human Chief</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Coastal Cave</SpecificLocation>
+    <Standard>-1</Standard>
+    <Slash>-2</Slash>
+    <Strike>-1</Strike>
+    <Thrust>-1</Thrust>
+    <Magic>-1</Magic>
+    <Fire>-1</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>-1</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-196.063</Y>
+    <X>95.947</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Demi-Human Queen Gilika</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Lux Ruins</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>-1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-98.859</Y>
+    <X>74.242</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Demi-Human Queen Maggie</Name>
+    <Location>Mt. Gelmir</Location>
+    <SpecificLocation>Hermit Village</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>-1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-90.563</Y>
+    <X>70.227</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Demi-Human Queen Margot</Name>
+    <Location>Mt. Gelmir</Location>
+    <SpecificLocation>Volcano Cave</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>-1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-77.755</Y>
+    <X>67.821</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Draconic Tree Sentinel</Name>
+    <Location>Capital Outskirts</Location>
+    <SpecificLocation>Eastern City Gate</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>3</Sleep>
+    <Y>-93.609</Y>
+    <X>120.2</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Dragonkin Soldier</Name>
+    <Location>Lake of Rot</Location>
+    <SpecificLocation>Southeast Lake of Rot</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>0</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>1</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-134.119</Y>
+    <X>62.498</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Dragonkin Soldier</Name>
+    <Location>Siofra River</Location>
+    <SpecificLocation>Upper Siofra River</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>0</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>1</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-173.758</Y>
+    <X>133.746</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Dragonkin Soldier of Nokstella</Name>
+    <Location>Ainsel River</Location>
+    <SpecificLocation>Western Ainsel River</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>0</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>1</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-123.977</Y>
+    <X>64.106</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Dragonlord Placidusax</Name>
+    <Location>Farum Azula</Location>
+    <SpecificLocation>Floating debris</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-125.98</Y>
+    <X>216.68</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Elemer of the Briar</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>The Shaded Castle</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>3</Sleep>
+    <Y>-79.703</Y>
+    <X>80.942</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Erdtree Avatar</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Minor Erdtree</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>-2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>2</Frost>
+    <Sleep>0</Sleep>
+    <Y>-212.656</Y>
+    <X>105.62</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Erdtree Avatar</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Minor Erdtree</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>-2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>2</Frost>
+    <Sleep>0</Sleep>
+    <Y>-150.1</Y>
+    <X>46.399</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Erdtree Avatar</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Minor Erdtree</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>-2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>2</Frost>
+    <Sleep>0</Sleep>
+    <Y>-121.92</Y>
+    <X>76.71</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Erdtree Avatar</Name>
+    <Location>Mountaintops</Location>
+    <SpecificLocation>Minor Erdtree</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>-2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>2</Frost>
+    <Sleep>0</Sleep>
+    <Y>-67.636</Y>
+    <X>161.518</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Erdtree Avatar</Name>
+    <Location>Weeping Peninsula</Location>
+    <SpecificLocation>Minor Erdtree</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>-2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>2</Frost>
+    <Sleep>0</Sleep>
+    <Y>-212.656</Y>
+    <X>105.62</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Erdtree Burial Watchdog</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Wyndham Catacombs</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-91.658</Y>
+    <X>73.05</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Erdtree Burial Watchdog</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Stormfoot Catacombs</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-187.492</Y>
+    <X>75.714</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Erdtree Burial Watchdog</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Cliffbottom Catacombs</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-161.177</Y>
+    <X>84.627</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Erdtree Burial Watchdog</Name>
+    <Location>Weeping Peninsula</Location>
+    <SpecificLocation>Impaler's Catacombs</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-207.92</Y>
+    <X>119.67</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Erdtree Burial Watchdog (Duo)</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Minor Erdtree Catacombs</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-164.806</Y>
+    <X>129.943</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Esgar, Priest of Blood</Name>
+    <Location>Leyndell, Royal Capital</Location>
+    <SpecificLocation>Leyndell Catacombs</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>1</Poison>
+    <ScarletRot>1</ScarletRot>
+    <Bleed>1</Bleed>
+    <Frost>1</Frost>
+    <Sleep>0</Sleep>
+    <Y>-102.5</Y>
+    <X>115.012</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Fallingstar Beast</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Crater south of Capital Outskirts</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-104.57</Y>
+    <X>95.74</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Fallingstar Beast</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Sellia Crystal Tunnel</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-171.634</Y>
+    <X>145.286</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Fell Twins</Name>
+    <Location>Leyndell, Royal Capital</Location>
+    <SpecificLocation>Capital Outskirts</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>1</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-102.172</Y>
+    <X>127.04</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Fia's Champions</Name>
+    <Location>Deeproot Depths</Location>
+    <SpecificLocation>Acros the Roots</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-93.172</Y>
+    <X>117.266</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Fire Giant</Name>
+    <Location>Mountaintops</Location>
+    <SpecificLocation>Flame Peak</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>2</Fire>
+    <Lightning>0</Lightning>
+    <Holy>1</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>4</Sleep>
+    <Y>-91.82</Y>
+    <X>164.49</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Flying Dragon Agheel</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Dragon-Burnt Ruins</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>4</Sleep>
+    <Y>-193.344</Y>
+    <X>109.024</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Flying Dragon Greyll</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Dragonbarrow Bridge</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-156.093</Y>
+    <X>160.3</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Frenzied Duelist</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Gaol Cave</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-180.341</Y>
+    <X>129.832</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Full-Grown Fallingstar Beast</Name>
+    <Location>Mt. Gelmir</Location>
+    <SpecificLocation>Mt. Gelmir peak</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-82.828</Y>
+    <X>65.587</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Glintstone Dragon Adula</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Cathedral of Manus Celes</SpecificLocation>
+    <Special>Three Sisters</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>3</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-157.563</Y>
+    <X>54.086</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Glintstone Dragon Smarag</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>West of Raya Lucaria</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>3</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-137.94</Y>
+    <X>50</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>God-Devouring Serpent / Rykard, Lord of Blasphemy</Name>
+    <Location>Mt. Gelmir</Location>
+    <SpecificLocation>Audience Pathway</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>3</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>2</Frost>
+    <Sleep>4</Sleep>
+    <Y>-87.594</Y>
+    <X>66.862</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Godefroy The Grafted</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Golden Lineage Evergaol</SpecificLocation>
+    <Special>1 Stonesword Key</Special>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>3</Sleep>
+    <Y>-109.234</Y>
+    <X>81.328</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Godfrey, First Elden Lord</Name>
+    <Location>Leyndell, Royal Capital</Location>
+    <SpecificLocation>Erdtree Sanctuary</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>4</Sleep>
+    <Y>-107.141</Y>
+    <X>116.614</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Godfrey, First Elden Lord (Hoarah Loux)</Name>
+    <Location>Leyndell, Ashen Capital</Location>
+    <SpecificLocation>Before the Erdtree</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>4</Sleep>
+    <Y>-106</Y>
+    <X>118</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Godrick the Grafted</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Stormveil Castle</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>3</Sleep>
+    <Y>-173.666</Y>
+    <X>86.058</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Godskin Apostle</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Windmill Village</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>3</Frost>
+    <Sleep>2</Sleep>
+    <Y>-76.563</Y>
+    <X>100.164</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Godskin Apostle</Name>
+    <Location>Dragonbarrow</Location>
+    <SpecificLocation>Divine Tower of Caelid</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>3</Frost>
+    <Sleep>2</Sleep>
+    <Y>-163.777</Y>
+    <X>145.737</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Godskin Apostle and Godskin Noble (Spiritcaller Snail)</Name>
+    <Location>Mountaintops</Location>
+    <SpecificLocation>Spiritcaller's Cave</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>2</Sleep>
+    <Y>-67.481</Y>
+    <X>169.098</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Godskin Duo</Name>
+    <Location>Farum Azula</Location>
+    <SpecificLocation>Dragon Temple</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>2</Sleep>
+    <Y>-123.31</Y>
+    <X>216.53</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Godskin Noble</Name>
+    <Location>Mt. Gelmir</Location>
+    <SpecificLocation>Temple of Eiglay</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>2</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>3</Frost>
+    <Sleep>2</Sleep>
+    <Y>-85.88</Y>
+    <X>63.28</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Grafted Scion</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Chapel of Anticipation</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-179.75</Y>
+    <X>77.728</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Grave Warden Duelist</Name>
+    <Location>Capital Outskirts</Location>
+    <SpecificLocation>Auriza Side Tomb</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-95.141</Y>
+    <X>121.863</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Grave Warden Duelist</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Murkwater Catacombs</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-179.14</Y>
+    <X>108.754</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Great Wyrm Theodorix</Name>
+    <Location>Consecrated Snowfield</Location>
+    <SpecificLocation>Frozen lake</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>3</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>2</Sleep>
+    <Y>-68.336</Y>
+    <X>149.169</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Guardian Golem</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Highroad Cave</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-172.5</Y>
+    <X>109.09</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Kindred of Rot (Duo)</Name>
+    <Location>Mt. Gelmir</Location>
+    <SpecificLocation>Seethewater Cave</SpecificLocation>
+    <Special>1 Stonesword Key</Special>
+    <Standard>0</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>-1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-83.227</Y>
+    <X>67.207</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Leonine Misbegotten</Name>
+    <Location>Weeping Peninsula</Location>
+    <SpecificLocation>Castle Morne</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>0</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>0</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>3</Sleep>
+    <Y>-231.75</Y>
+    <X>106.799</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Lichdragon Fortissax</Name>
+    <Location>Deeproot Depths</Location>
+    <SpecificLocation>Acros the Roots</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>3</Lightning>
+    <Holy>3</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-93</Y>
+    <X>118</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Loretta, Knight of the Haligtree</Name>
+    <Location>Haligtree</Location>
+    <SpecificLocation>Bottom of Miquella's Haligtree</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>0</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>3</Sleep>
+    <Y>-44.523</Y>
+    <X>150.264</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Mad Pumpkin Head</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Waypoint Ruins</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>3</Sleep>
+    <Y>-191.016</Y>
+    <X>114.147</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Mad Pumpkin Heads</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Caelem Ruins</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>3</Sleep>
+    <Y>-171.566</Y>
+    <X>135.596</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Magma Wyrm</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Gael Tunnel</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>3</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>2</Sleep>
+    <Y>-174.54</Y>
+    <X>127.21</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Magma Wyrm</Name>
+    <Location>Mt. Gelmir</Location>
+    <SpecificLocation>Fort Laiedd</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>3</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>2</Sleep>
+    <Y>-89.996</Y>
+    <X>57.927</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Magma Wyrm Makar</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Ruin-Strewn Precipice</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>3</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>2</Sleep>
+    <Y>-103.461</Y>
+    <X>75.891</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Malenia, Blade of Miquella</Name>
+    <Location>Haligtree</Location>
+    <SpecificLocation>Elphael, Brace of the Haligtree</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>0</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>4</Sleep>
+    <Y>-37.606</Y>
+    <X>148.711</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Margit, the Fell Omen</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Stormhill</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-182.695</Y>
+    <X>90.973</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Mimic Tear</Name>
+    <Location>Nokron</Location>
+    <SpecificLocation>Temple ruin</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-188.133</Y>
+    <X>128.731</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Miranda the Blighted Bloom</Name>
+    <Location>Weeping Peninsula</Location>
+    <SpecificLocation>Tombsward Cave</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-2</Slash>
+    <Strike>2</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>-2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>1</Frost>
+    <Sleep>2</Sleep>
+    <Y>-213.338</Y>
+    <X>99.051</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Misbegotten Crusader</Name>
+    <Location>Consecrated Snowfield</Location>
+    <SpecificLocation>Cave of the Forlorn</SpecificLocation>
+    <Special>1 Stonesword Key</Special>
+    <Standard>1</Standard>
+    <Slash>0</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>0</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>3</Sleep>
+    <Y>-69.27</Y>
+    <X>148.354</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Mohg, Lord of Blood</Name>
+    <Location>Mohgwyn Dynasty Mausoleum</Location>
+    <SpecificLocation>Mohgwyn Palace</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>3</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>4</Frost>
+    <Sleep>4</Sleep>
+    <Y>-182.053</Y>
+    <X>146.247</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Mohg, the Omen</Name>
+    <Location>Leyndell, Royal Capital</Location>
+    <SpecificLocation>Subterranean Shunning-Grounds</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>3</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-101.406</Y>
+    <X>116.52</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Morgott, the Omen King</Name>
+    <Location>Leyndell, Royal Capital</Location>
+    <SpecificLocation>Before the Erdtree</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>4</Sleep>
+    <Y>-107.107</Y>
+    <X>121.21</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Necromancer Garris</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Sage's Cave</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>1</Poison>
+    <ScarletRot>1</ScarletRot>
+    <Bleed>1</Bleed>
+    <Frost>1</Frost>
+    <Sleep>0</Sleep>
+    <Y>-95.22</Y>
+    <X>72.13</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Night's Cavalry</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Altus Highway Junction south</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-102.375</Y>
+    <X>81.858</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Night's Cavalry</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Caelid Highway south</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-186</Y>
+    <X>144</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Night's Cavalry</Name>
+    <Location>Dragonbarrow</Location>
+    <SpecificLocation>Bridge near Lenne's Rise</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-160.87</Y>
+    <X>163.51</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Night's Cavalry</Name>
+    <Location>Forbidden Lands</Location>
+    <SpecificLocation>Path to the Lift</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-99</Y>
+    <X>136</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Night's Cavalry</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Agheel Lake North bridge</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-189.188</Y>
+    <X>108.049</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Night's Cavalry</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>South of Bellum Church</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-119.25</Y>
+    <X>64.36</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Night's Cavalry</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Gate Town bridge</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-150.666</Y>
+    <X>78.921</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Night's Cavalry</Name>
+    <Location>Weeping Peninsula</Location>
+    <SpecificLocation>Near Castle Morne Ramparts</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-216.266</Y>
+    <X>115.431</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Night's Cavalry (Duo)</Name>
+    <Location>Consecrated Snowfield</Location>
+    <SpecificLocation>Southwest of Inner Consecrated Snowfield</SpecificLocation>
+    <Special>Night</Special>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>2</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-76.39</Y>
+    <X>139</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Nox Swordstress &amp; Nox Priest</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Sellia, Town of Sorcery</SpecificLocation>
+    <Special>Seal</Special>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>-1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>2</Sleep>
+    <Y>-173.398</Y>
+    <X>146.919</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Omenkiller</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Village of the Albinaurics</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-157.51</Y>
+    <X>56.23</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Omenkiller &amp; Miranda the Blighted Bloom</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Perfumer's Grotto</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-99.73</Y>
+    <X>95.73</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Onyx Lord</Name>
+    <Location>Capital Outskirts</Location>
+    <SpecificLocation>Sealed Tunnel</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>0</Frost>
+    <Sleep>2</Sleep>
+    <Y>-111.5</Y>
+    <X>105.78</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Patches</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Murkwater Cave</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>1</Poison>
+    <ScarletRot>1</ScarletRot>
+    <Bleed>1</Bleed>
+    <Frost>1</Frost>
+    <Sleep>0</Sleep>
+    <Y>-185.5</Y>
+    <X>109.14</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Perfumer Tricia &amp; Misbegotten Warrior</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Unsightly Catacombs</SpecificLocation>
+    <Special>2 Stonesword Keys</Special>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>-2</Magic>
+    <Fire>-2</Fire>
+    <Lightning>-2</Lightning>
+    <Holy>0</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-96.5</Y>
+    <X>61.243</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Putrid Avatar</Name>
+    <Location>Consecrated Snowfield</Location>
+    <SpecificLocation>Minor Erdtree</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>-3</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-66.406</Y>
+    <X>148.212</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Putrid Avatar</Name>
+    <Location>Dragonbarrow</Location>
+    <SpecificLocation>Dragonbarrow Cave entrance</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>-3</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-166.539</Y>
+    <X>155.722</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Putrid Avatar</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Minor Erdtree Catacombs entrance</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>-3</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-167.593</Y>
+    <X>128.484</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Putrid Crystalian Trio</Name>
+    <Location>Dragonbarrow</Location>
+    <SpecificLocation>Sellia Hideaway</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-174.156</Y>
+    <X>154.372</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Putrid Grave Warden Duelist</Name>
+    <Location>Consecrated Snowfield</Location>
+    <SpecificLocation>Consecrated Snowfield Catacombs</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>-1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-79.16</Y>
+    <X>149.34</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Putrid Tree Spirit</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>War-Dead Catacombs</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>-1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>2</Frost>
+    <Sleep>0</Sleep>
+    <Y>-166.66</Y>
+    <X>163.44</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Radagon of the Golden Order / Elden Beast</Name>
+    <Location>Elden Throne</Location>
+    <SpecificLocation>Elden Throne</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>0</Fire>
+    <Lightning>1</Lightning>
+    <Holy>3</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-109.781</Y>
+    <X>123.125</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Red Wolf of Radagon</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Raya Lucaria Academy</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>2</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>3</Sleep>
+    <Y>-138</Y>
+    <X>57</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Red Wolf of the Champion</Name>
+    <Location>Mt. Gelmir</Location>
+    <SpecificLocation>Gelmir Hero's Grave</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>2</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>3</Sleep>
+    <Y>-88</Y>
+    <X>73</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Regal Ancestor Spirit</Name>
+    <Location>Nokron</Location>
+    <SpecificLocation>Upper Nokron</SpecificLocation>
+    <Special>Fire Obelisks</Special>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>-1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>-1</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>0</Sleep>
+    <Y>-176.148</Y>
+    <X>132.872</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Rennala, Queen of the Full Moon</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Raya Lucaria Academy</SpecificLocation>
+    <Standard>-1</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>-1</Thrust>
+    <Magic>3</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-133.828</Y>
+    <X>56.18</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Royal Knight Loretta</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Caria Manor</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>2</Magic>
+    <Fire>2</Fire>
+    <Lightning>0</Lightning>
+    <Holy>1</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-104.636</Y>
+    <X>56.784</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Royal Revenant</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Kingsrealm Ruins</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>0</Sleep>
+    <Y>-116.57</Y>
+    <X>53.018</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Runebear</Name>
+    <Location>Weeping Peninsula</Location>
+    <SpecificLocation>Earthbore Cave</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>-1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>2</Sleep>
+    <Y>-208.656</Y>
+    <X>110.695</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Sanguine Noble</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Writheblood Ruins</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>1</Lightning>
+    <Holy>1</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>3</Sleep>
+    <Y>-87.13</Y>
+    <X>87.256</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Scaly Misbegotten</Name>
+    <Location>Weeping Peninsula</Location>
+    <SpecificLocation>Morne Tunnel</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>-1</Thrust>
+    <Magic>0</Magic>
+    <Fire>-1</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-212.7</Y>
+    <X>108.76</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Sir Gideon Ofnir, the All-Knowing</Name>
+    <Location>Leyndell, Ashen Capital</Location>
+    <SpecificLocation>Erdtree Sanctuary</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>1</Poison>
+    <ScarletRot>1</ScarletRot>
+    <Bleed>1</Bleed>
+    <Frost>1</Frost>
+    <Sleep>0</Sleep>
+    <Y>-106.898</Y>
+    <X>116.762</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Soldier of Godrick</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Stranded Graveyard</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>1</Slash>
+    <Strike>0</Strike>
+    <Thrust>-1</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>2</Frost>
+    <Sleep>2</Sleep>
+    <Y>-196.703</Y>
+    <X>102.634</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Spirit-Caller Snail</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Road's End Catacombs</SpecificLocation>
+    <Standard>-1</Standard>
+    <Slash>-2</Slash>
+    <Strike>-1</Strike>
+    <Thrust>-1</Thrust>
+    <Magic>2</Magic>
+    <Fire>0</Fire>
+    <Lightning>-1</Lightning>
+    <Holy>0</Holy>
+    <Poison>2</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>2</Bleed>
+    <Frost>1</Frost>
+    <Sleep>1</Sleep>
+    <Y>-151.011</Y>
+    <X>45.604</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Starscourge Radahn</Name>
+    <Location>Caelid</Location>
+    <SpecificLocation>Wailing Dunes</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>1</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>2</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>4</Sleep>
+    <Y>-183.414</Y>
+    <X>159.883</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Stonedigger Troll</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Old Altus Tunnels</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>0</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>0</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>1</Sleep>
+    <Y>-90.978</Y>
+    <X>77.651</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Stonedigger Troll</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Limgrave Tunnels</SpecificLocation>
+    <Standard>2</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>2</Thrust>
+    <Magic>0</Magic>
+    <Fire>1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>0</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>1</Sleep>
+    <Y>-189.5</Y>
+    <X>102.893</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Stray Mimic Tear</Name>
+    <Location>Forbidden Lands</Location>
+    <SpecificLocation>Hidden Path to the Haligtree</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-84.289</Y>
+    <X>142.089</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Tibia Mariner</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Wyndham Ruins</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-95.763</Y>
+    <X>73.646</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Tibia Mariner</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Artist's Shack</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-146.117</Y>
+    <X>80.731</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Tibia Mariner</Name>
+    <Location>Liurnia</Location>
+    <SpecificLocation>Summonwater Village</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-175.047</Y>
+    <X>119.186</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Tibia Mariner</Name>
+    <Location>Mountaintops</Location>
+    <SpecificLocation>Snow Valley Ruins Overlook</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>1</Slash>
+    <Strike>-2</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>1</Fire>
+    <Lightning>2</Lightning>
+    <Holy>-2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-64.445</Y>
+    <X>157.234</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Tree Sentinel</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Near Church of Elleh</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>0</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>3</Sleep>
+    <Y>-194.51</Y>
+    <X>101.711</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Tree Sentinel (Duo)</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Western Leyndell Gate</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>1</Strike>
+    <Thrust>1</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>0</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>4</Frost>
+    <Sleep>3</Sleep>
+    <Y>-101.803</Y>
+    <X>96.081</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Ulcerated Tree Spirit</Name>
+    <Location>Limgrave</Location>
+    <SpecificLocation>Fingerfolk Hero's Grave</SpecificLocation>
+    <Special>2 Stonesword Keys</Special>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>-1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>2</Frost>
+    <Sleep>0</Sleep>
+    <Y>-196.211</Y>
+    <X>100.618</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Ulcerated Tree Spirit</Name>
+    <Location>Mountaintops</Location>
+    <SpecificLocation>Giant's Mountaintop Catacombs</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>-1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>2</Frost>
+    <Sleep>0</Sleep>
+    <Y>-84.234</Y>
+    <X>150.806</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Ulcerated Tree Spirit</Name>
+    <Location>Mt. Gelmir</Location>
+    <SpecificLocation>East of Road of Inquity</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>1</Magic>
+    <Fire>-1</Fire>
+    <Lightning>1</Lightning>
+    <Holy>2</Holy>
+    <Poison>4</Poison>
+    <ScarletRot>4</ScarletRot>
+    <Bleed>4</Bleed>
+    <Frost>2</Frost>
+    <Sleep>0</Sleep>
+    <Y>-832.23</Y>
+    <X>68.64</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Valiant Gargoyle &amp; Valiant Gargoyle (Twinblade)</Name>
+    <Location>Nokron</Location>
+    <SpecificLocation>Siofra Aqueduct</SpecificLocation>
+    <Standard>1</Standard>
+    <Slash>2</Slash>
+    <Strike>0</Strike>
+    <Thrust>2</Thrust>
+    <Magic>1</Magic>
+    <Fire>2</Fire>
+    <Lightning>2</Lightning>
+    <Holy>2</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-169.656</Y>
+    <X>133.724</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Vyke, Knight of the Roundtable</Name>
+    <Location>Mountaintops</Location>
+    <SpecificLocation>Lord Contender's Evergaol</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>0</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>0</Holy>
+    <Poison>0</Poison>
+    <ScarletRot>0</ScarletRot>
+    <Bleed>0</Bleed>
+    <Frost>0</Frost>
+    <Sleep>0</Sleep>
+    <Y>-72.172</Y>
+    <X>167.967</X>
+  </record>
+  <record>
+    <Killed>false</Killed>
+    <Name>Wormface</Name>
+    <Location>Altus Plateau</Location>
+    <SpecificLocation>Minor Erdtree</SpecificLocation>
+    <Standard>0</Standard>
+    <Slash>-1</Slash>
+    <Strike>0</Strike>
+    <Thrust>0</Thrust>
+    <Magic>0</Magic>
+    <Fire>0</Fire>
+    <Lightning>0</Lightning>
+    <Holy>2</Holy>
+    <Poison>3</Poison>
+    <ScarletRot>3</ScarletRot>
+    <Bleed>3</Bleed>
+    <Frost>3</Frost>
+    <Sleep>3</Sleep>
+    <Y>-85.453</Y>
+    <X>93.487</X>
+  </record>
+</boss-data>

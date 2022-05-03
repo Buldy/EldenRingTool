@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flask-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>Third Church of Marika</Location>
+		<Type>Pickup</Type>
+		<Y>-179.273</Y>
+		<X>123.364</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>Callu Baptismal Church</Location>
+		<Type>Pickup</Type>
+		<Y>-215.086</Y>
+		<X>111.865</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>Church of Pilgrimage</Location>
+		<Type>Pickup</Type>
+		<Y>-203.25</Y>
+		<X>105.373</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>Fourth Church of Marika</Location>
+		<Type>Pickup</Type>
+		<Y>-210.828</Y>
+		<X>95.227</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>Church of Irith</Location>
+		<Type>Pickup</Type>
+		<Y>-172.516</Y>
+		<X>81.714</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>Bellum Church</Location>
+		<Type>Pickup</Type>
+		<Y>-115.89</Y>
+		<X>63.47</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>Church of Inhibition</Location>
+		<Type>Pickup</Type>
+		<Y>-114.156</Y>
+		<X>71.883</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>Second Church of Marika</Location>
+		<Type>Pickup</Type>
+		<Y>-93.344</Y>
+		<X>84.262</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>Stormcaller Church</Location>
+		<Type>Pickup</Type>
+		<Y>-98.492</Y>
+		<X>89.157</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>Church of the Plague</Location>
+		<Type>Pickup</Type>
+		<Y>-177.93</Y>
+		<X>150.112</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>Church of Repose</Location>
+		<Type>Pickup</Type>
+		<Y>-88.88</Y>
+		<X>154.78</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Sacred Tear</Name>
+		<Location>First Church of Marika</Location>
+		<Type>Pickup</Type>
+		<Y>-74.49</Y>
+		<X>175.21</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Stormhill</Location>
+		<Type>Pickup</Type>
+		<Y>-183.344</Y>
+		<X>95.785</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Stomrhill Shack</Location>
+		<Type>Roderika (after Liurnia, or Chrisalids' Memo)</Type>
+		<Y>-181.195</Y>
+		<X>95.7</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Mistwood</Location>
+		<Type>Pickup</Type>
+		<Y>-194.75</Y>
+		<X>124.168</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Weeping Peninsula</Location>
+		<Type>Pickup</Type>
+		<Y>-219.82</Y>
+		<X>112.25</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Fort Haight</Location>
+		<Type>Killing Kenneth Haight</Type>
+		<Y>-193.516</Y>
+		<X>126.073</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Fingergolk Hero's Grave</Location>
+		<Type>Defeating Ulcerated Tree Spirit</Type>
+		<Y>-196.594</Y>
+		<X>100.618</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Stormveil Castle</Location>
+		<Type>Pickup</Type>
+		<Y>-176.343</Y>
+		<X>87.699</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Stormveil Castle Crypt</Location>
+		<Type>Defeating Lesser Ulcerated Tree Spirit</Type>
+		<Y>-175.86</Y>
+		<X>84.33</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Academy Gate Town</Location>
+		<Type>Pickup</Type>
+		<Y>-143.961</Y>
+		<X>64.049</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Raya Lucaria Academy</Location>
+		<Type>Pickup</Type>
+		<Y>-136.008</Y>
+		<X>57.212</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Caria Manor</Location>
+		<Type>Pickup</Type>
+		<Y>-107.469</Y>
+		<X>59.12</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Bridge north of Main Academy Gate</Location>
+		<Type>Pickup</Type>
+		<Y>-129</Y>
+		<X>57.78</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Ravine-Veiled Village</Location>
+		<Type>Pickup</Type>
+		<Y>-104.109</Y>
+		<X>72.695</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Nokstella</Location>
+		<Type>Pickup</Type>
+		<Y>-121.203</Y>
+		<X>62.227</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Siofra</Location>
+		<Type>Pickup</Type>
+		<Y>-172.79</Y>
+		<X>137.63</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed (2)</Name>
+		<Location>Western Gate of the Capital Outskirts</Location>
+		<Type>Pickup</Type>
+		<Y>-102.103</Y>
+		<X>99.956</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed (2)</Name>
+		<Location>Northwest Capital Outskirts</Location>
+		<Type>Pickup</Type>
+		<Y>-95</Y>
+		<X>104</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Western Capital Outskirts</Location>
+		<Type>Defeating Lesser Ulcerated Tree Spirit</Type>
+		<Y>-105.41</Y>
+		<X>100.01</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Leyndell Royal Capital</Location>
+		<Type>Defeating Lesser Ulcerated Tree Spirit</Type>
+		<Y>-105.32</Y>
+		<X>115.083</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Leyndell Royal Capital</Location>
+		<Type>Pickup</Type>
+		<Y>-105.32</Y>
+		<X>115.083</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Caelid</Location>
+		<Type>Pickup</Type>
+		<Y>-152.95</Y>
+		<X>159.01</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Sellia, Town of Sorcery</Location>
+		<Type>Pickup</Type>
+		<Y>-174.938</Y>
+		<X>148.136</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Caelid</Location>
+		<Type>Pickup</Type>
+		<Y>-190.328</Y>
+		<X>143.701</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>War-Dead Catacombs</Location>
+		<Type>Defeating Putrid Tree Avatar</Type>
+		<Y>-166.392</Y>
+		<X>163.854</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Mt. Gelmir</Location>
+		<Type>Pickup</Type>
+		<Y>-90.15</Y>
+		<X>71.472</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Windmill Village</Location>
+		<Type>Pickup</Type>
+		<Y>-84.766</Y>
+		<X>100.035</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Altus Highway Junction</Location>
+		<Type>Pickup</Type>
+		<Y>-98.555</Y>
+		<X>84.558</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Altus Plateau Minor Erdtree</Location>
+		<Type>Pickup</Type>
+		<Y>-84.125</Y>
+		<X>91.553</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Erdtree-Gazing Hills</Location>
+		<Type>Pickup</Type>
+		<Y>-97.906</Y>
+		<X>75.933</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Lake of Rot</Location>
+		<Type>Defeating Lesser Ulcerated Tree Spirit</Type>
+		<Y>-129.32</Y>
+		<X>60.409</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Mountaintops Minor Erdtree East</Location>
+		<Type>Pickup</Type>
+		<Y>-66.57</Y>
+		<X>163.768</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Flame Peak</Location>
+		<Type>Pickup</Type>
+		<Y>-85.435</Y>
+		<X>164.253</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Forbidden Lands</Location>
+		<Type>Pickup</Type>
+		<Y>-97.297</Y>
+		<X>142.992</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Consecrated Snowfield</Location>
+		<Type>Pickup</Type>
+		<Y>-65.02</Y>
+		<X>136.13</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Giant's Mountaintop Catacombs</Location>
+		<Type>Defeating Ulcerated Tree Spirit</Type>
+		<Y>-85.64</Y>
+		<X>151.27</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Consecrated Snowfield</Location>
+		<Type>Pickup</Type>
+		<Y>-98.188</Y>
+		<X>144.109</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Farum Azula</Location>
+		<Type>Pickup</Type>
+		<Y>-124.219</Y>
+		<X>215.503</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Farum Azula</Location>
+		<Type>Pickup</Type>
+		<Y>-121.712</Y>
+		<X>220.137</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Mt. Gelmir</Location>
+		<Type>Pickup</Type>
+		<Y>-81.32</Y>
+		<X>60.586</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Elphael, Brace of the Haligtree</Location>
+		<Type>Defeating Lesser Ulcerated Tree Spirit</Type>
+		<Y>-39.55</Y>
+		<X>147.676</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Mohgwyn Palace</Location>
+		<Type>Pickup</Type>
+		<Y>-183.414</Y>
+		<X>152.309</X>
+	</record>
+	<record>
+		<Collected>false</Collected>
+		<Name>Golden Seed</Name>
+		<Location>Mohgwyn Palace</Location>
+		<Type>Pickup</Type>
+		<Y>-179.671</Y>
+		<X>150.203</X>
+	</record>
+</flask-data>
