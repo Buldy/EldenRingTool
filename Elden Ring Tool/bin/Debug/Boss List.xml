@@ -578,6 +578,7 @@
 		<Name>Death Rite Bird</Name>
 		<Location>Caelid</Location>
 		<SpecificLocation>East of Southern Aeonia Swamp</SpecificLocation>
+		<Special>Night</Special>
 		<Standard>1</Standard>
 		<Slash>1</Slash>
 		<Strike>-2</Strike>
@@ -620,6 +621,7 @@
 		<Name>Frenzied Duelist</Name>
 		<Location>Caelid</Location>
 		<SpecificLocation>Gaol Cave</SpecificLocation>
+		<Special>2 Stonesword Keys</Special>
 		<Standard>0</Standard>
 		<Slash>-1</Slash>
 		<Strike>0</Strike>
@@ -918,7 +920,7 @@
 		<Name>Misbegotten Crusader</Name>
 		<Location>Consecrated Snowfield</Location>
 		<SpecificLocation>Cave of the Forlorn</SpecificLocation>
-		<Special>1 Stonesword Key</Special>
+		<Special>2 Stonesword Keys</Special>
 		<Standard>1</Standard>
 		<Slash>0</Slash>
 		<Strike>1</Strike>
@@ -1293,8 +1295,8 @@
 		<Bleed>2</Bleed>
 		<Frost>2</Frost>
 		<Sleep>2</Sleep>
-		<Y>-181</Y>
-		<X>139</X>
+		<Y>-175.625</Y>
+		<X>142.554</X>
 	</record>
 	<record>
 		<Killed>false</Killed>
@@ -1717,27 +1719,6 @@
 		<Sleep>0</Sleep>
 		<Y>-189.188</Y>
 		<X>108.049</X>
-	</record>
-	<record>
-		<Killed>false</Killed>
-		<Name>Tibia Mariner</Name>
-		<Location>Limgrave</Location>
-		<SpecificLocation>Artist's Shack</SpecificLocation>
-		<Standard>1</Standard>
-		<Slash>1</Slash>
-		<Strike>-2</Strike>
-		<Thrust>2</Thrust>
-		<Magic>1</Magic>
-		<Fire>1</Fire>
-		<Lightning>2</Lightning>
-		<Holy>-2</Holy>
-		<Poison>0</Poison>
-		<ScarletRot>3</ScarletRot>
-		<Bleed>0</Bleed>
-		<Frost>0</Frost>
-		<Sleep>0</Sleep>
-		<Y>-146.117</Y>
-		<X>80.731</X>
 	</record>
 	<record>
 		<Killed>false</Killed>
@@ -2164,9 +2145,31 @@
 	</record>
 	<record>
 		<Killed>false</Killed>
+		<Name>Tibia Mariner</Name>
+		<Location>Liurnia</Location>
+		<SpecificLocation>Artist's Shack</SpecificLocation>
+		<Standard>1</Standard>
+		<Slash>1</Slash>
+		<Strike>-2</Strike>
+		<Thrust>2</Thrust>
+		<Magic>1</Magic>
+		<Fire>1</Fire>
+		<Lightning>2</Lightning>
+		<Holy>-2</Holy>
+		<Poison>0</Poison>
+		<ScarletRot>3</ScarletRot>
+		<Bleed>0</Bleed>
+		<Frost>0</Frost>
+		<Sleep>0</Sleep>
+		<Y>-146.117</Y>
+		<X>80.731</X>
+	</record>
+	<record>
+		<Killed>false</Killed>
 		<Name>Crystalian Spear &amp; Crystalian Staff</Name>
 		<Location>Liurnia</Location>
 		<SpecificLocation>Academy Crytal Cave</SpecificLocation>
+		<Special>2 Stonesword Keys</Special>
 		<Standard>1</Standard>
 		<Slash>2</Slash>
 		<Strike>1</Strike>
@@ -2528,7 +2531,6 @@
 		<Name>Crystalian</Name>
 		<Location>Liurnia</Location>
 		<SpecificLocation>Raya Lucaria Crystal Tunnel</SpecificLocation>
-		<Special>1 Stonesword Key</Special>
 		<Standard>1</Standard>
 		<Slash>2</Slash>
 		<Strike>1</Strike>
@@ -2589,7 +2591,7 @@
 	</record>
 	<record>
 		<Killed>false</Killed>
-		<Name>Alabaster Lord</Name>
+		<Name>Onyx Lord</Name>
 		<Location>Liurnia</Location>
 		<SpecificLocation>Royal Grave Evergaol</SpecificLocation>
 		<Standard>1</Standard>
@@ -2972,6 +2974,7 @@
 		<Name>Godskin Apostle and Godskin Noble (Spiritcaller Snail)</Name>
 		<Location>Mountaintops</Location>
 		<SpecificLocation>Spiritcaller's Cave</SpecificLocation>
+		<Special>2 Stonesword Keys</Special>
 		<Standard>0</Standard>
 		<Slash>-1</Slash>
 		<Strike>1</Strike>
@@ -3119,7 +3122,7 @@
 		<Name>Kindred of Rot (Duo)</Name>
 		<Location>Mt. Gelmir</Location>
 		<SpecificLocation>Seethewater Cave</SpecificLocation>
-		<Special>1 Stonesword Key</Special>
+		<Special>2 Stonesword Keys</Special>
 		<Standard>0</Standard>
 		<Slash>1</Slash>
 		<Strike>0</Strike>
